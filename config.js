@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~vsoFhTAB#N7le9HMk2xgypZxQx7CvDnUr4izgu9X442wpazuM9hw",
+SESSION_ID: process.env.SESSION_ID || "INCONNU~XD~PkxymToC#-d0i6bLsQiv5RNVCxgAZ2UWK2-wu1kE6kJyLJRN1meo",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
@@ -23,7 +23,7 @@ STICKER_NAME: process.env.STICKER_NAME || "QUEEN-ASUNA-MD",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false", 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "50935134055",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "50940505680",
 OWNER_NAME: process.env.OWNER_NAME || "INCONNU BOY",
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ inconnu boy*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/p1xybt.jpg",
